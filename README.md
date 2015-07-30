@@ -1,9 +1,4 @@
----
-tags: kids, git, stay-fresh
-languages: git
-type: stay-fresh
-level: 1
----
+
 
 ##Stay Fresh
 
